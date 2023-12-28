@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "AI Hacker Stack",
+    "base_url": "/",
+    "favicon": "/images/ai-hacker-stack-profile.webp"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "profile": {
+    "name": "AI Hacker Stack",
+    "image": "/images/ai-hacker-stack-profile.webp",
+    "designation": "Join The AI Movement.",
+    "bio": "Explore the Frontier of Digital Innovation."
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "tag_manager_id": "",
+    "copyright": "Copyright © 2023 AI Hacker Stack"
+  },
+
+  "metadata": {
+    "meta_author": "AI Hacker Stack",
+    "meta_image": "",
+    "meta_description": ""
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template"
+  }
+}
